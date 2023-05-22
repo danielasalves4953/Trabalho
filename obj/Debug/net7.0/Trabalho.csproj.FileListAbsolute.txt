@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Ambiente de Trabalho\Trabalho\obj\Debug\net7.0\Trabalho.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Ambiente de Trabalho\Trabalho\obj\Debug\net7.0\Trabalho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Ambiente de Trabalho\Trabalho\obj\Debug\net7.0\Trabalho.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Ambiente de Trabalho\Trabalho\obj\Debug\net7.0\Trabalho.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Ambiente de Trabalho\Trabalho\obj\Debug\net7.0\Trabalho.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Ambiente de Trabalho\Trabalho\bin\Debug\net7.0\Trabalho.exe
+C:\Users\danie\OneDrive\Ambiente de Trabalho\Trabalho\bin\Debug\net7.0\Trabalho.deps.json
+C:\Users\danie\OneDrive\Ambiente de Trabalho\Trabalho\bin\Debug\net7.0\Trabalho.runtimeconfig.json
+C:\Users\danie\OneDrive\Ambiente de Trabalho\Trabalho\bin\Debug\net7.0\Trabalho.dll
+C:\Users\danie\OneDrive\Ambiente de Trabalho\Trabalho\bin\Debug\net7.0\Trabalho.pdb
+C:\Users\danie\OneDrive\Ambiente de Trabalho\Trabalho\obj\Debug\net7.0\Trabalho.dll
+C:\Users\danie\OneDrive\Ambiente de Trabalho\Trabalho\obj\Debug\net7.0\refint\Trabalho.dll
+C:\Users\danie\OneDrive\Ambiente de Trabalho\Trabalho\obj\Debug\net7.0\Trabalho.pdb
+C:\Users\danie\OneDrive\Ambiente de Trabalho\Trabalho\obj\Debug\net7.0\Trabalho.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Ambiente de Trabalho\Trabalho\obj\Debug\net7.0\ref\Trabalho.dll
